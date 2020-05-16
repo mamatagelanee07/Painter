@@ -1,0 +1,10 @@
+ext {
+    // Room
+    room_version = '2.2.4'
+
+    // Testing
+    junit_version = '4.12'
+    mockito_version = '2.6.1'
+
+    // endregion
+}
