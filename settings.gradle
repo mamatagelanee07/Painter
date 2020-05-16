@@ -1,2 +1,4 @@
 rootProject.name='Painter'
 include ':app'
+include ':domain'
+include ':data'
